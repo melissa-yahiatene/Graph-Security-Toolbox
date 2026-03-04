@@ -1,0 +1,23 @@
+# --- Java & Maven ---
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# --- IDEs (IntelliJ, Eclipse, VS Code) ---
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# --- Langage C & Exécutables ---
+*.o
+*.obj
+*.exe
+*.out
+
+# --- Systèmes d'exploitation ---
+.DS_Store
